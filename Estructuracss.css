@@ -1,0 +1,45 @@
+body
+{
+    background-color: rgb(227, 250, 250);
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h1 
+{
+    margin: 0 0 0 8px;
+    padding-top: 8px;
+}
+
+.bar
+{
+    background-color:rgb(240, 232, 234);
+    padding: 10px;
+    display: flex;
+
+}
+
+.logo
+{
+    width: 75px;
+    height: 75px;
+}
+.photo1
+{
+    width: 250px;
+    height: 350px;
+}
+
+.photo2
+{
+    width: 450px;
+    height: 350px;
+}
+
+.photo3
+{
+    width: 450px;
+    height: 350px;
+}
